@@ -38,7 +38,7 @@ Consulta siempre la [lista oficial de dispositivos compatibles](https://meshtast
 Una buena antena mejora notablemente el alcance. Considera:
 
 - **Antenas dipolo de 915 MHz**
-  Suelen venir incluidas en kits TTGO o Heltec, pero pueden ser mejoradas.
+   Suelen venir incluidas en kits TTGO o Heltec, pero pueden ser mejoradas.
 
 - **Antenas externas tipo SMA (con base magnética o montaje en mástil)**  
   Ideal para nodos en exteriores o puntos altos.  
