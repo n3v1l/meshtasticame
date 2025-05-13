@@ -37,7 +37,7 @@ Consulta siempre la [lista oficial de dispositivos compatibles](https://meshtast
 
 Una buena antena mejora notablemente el alcance. Considera:
 
-- **Antenas dipolo de 868 MHz o 915 MHz** (según tu región)  
+- **Antenas dipolo de 915 MHz**
   Suelen venir incluidas en kits TTGO o Heltec, pero pueden ser mejoradas.
 
 - **Antenas externas tipo SMA (con base magnética o montaje en mástil)**  
@@ -48,8 +48,7 @@ Una buena antena mejora notablemente el alcance. Considera:
   Baratas y funcionales, ideales para experimentar.  
   👉 [Ejemplo de antena ground plane casera](https://www.instructables.com/LoRa-Ground-Plane-Antenna-915-MHz/)
 
-**⚠️ Importante:** Usa antenas correctas para la frecuencia de tu país:  
-- 868 MHz (Europa)  
+**⚠️ Importante:** Usa antenas correctas para la frecuencia de Chile:  
 - 915 MHz (América)
 
 ---
